@@ -1,6 +1,8 @@
+from django.db.models import Count
 from rest_framework.request import Request
 
 from catalog.models import Category
+from products.models import Product
 
 
 def sort_products(request: Request, products):
