@@ -47,7 +47,7 @@ class ProductImage(models.Model):
     name = models.CharField(max_length=128, null=False, blank=True)
     product = models.ForeignKey(Product, on_delete=models.CASCADE,
                                 related_name="images", verbose_name="product")
-    image = models.FileField(upload_to=product_image_directory_path)
+    image = models.ImageField(upload_to=product_image_directory_path)
 
     class Meta:
         verbose_name = "Product image"

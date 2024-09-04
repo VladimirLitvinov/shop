@@ -32,7 +32,6 @@ def filter_catalog(request: Request):
     min_price = (request.query_params.get('filter[minPrice]'))
     max_price = (request.query_params.get('filter[maxPrice]'))
     category = request.META['HTTP_REFERER'].split('/')[4]
-    print(category)
 
     catalog = Product.objects
 
@@ -41,7 +40,6 @@ def filter_catalog(request: Request):
             categories = [obj.pk for obj in
                           Category.objects.filter(parent_id=category)]
             categories.append(int(category))
-            print(categories)
             catalog = catalog.filter(category_id__in=categories)
         except:
             if str(category).startswith('?filter='):
@@ -50,7 +48,6 @@ def filter_catalog(request: Request):
             else:
                 category = ''
 
-    print(tags)
     if available == 'true':
         if freeDelivery == 'true':
             if len(tags) != 0:
@@ -94,6 +91,6 @@ def filter_catalog(request: Request):
                                                                  'tags').distinct()
     else:
         catalog = catalog.filter(title__iregex=title, price__range=(
-        min_price, max_price)).prefetch_related('images')
+            min_price, max_price)).prefetch_related('images')
 
     return catalog
