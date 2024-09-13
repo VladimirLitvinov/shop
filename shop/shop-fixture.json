@@ -1,0 +1,2252 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2024-09-06T09:35:49.562Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Телефоны",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2024-09-06T09:35:58.650Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "icon of Телефоны",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2024-09-06T09:36:17.786Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Iphone",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2024-09-06T09:36:34.592Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "icon of Iphone",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2024-09-06T09:36:45.540Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "Пылесосы",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2024-09-06T09:36:55.874Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "icon of Пылесосы",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2024-09-06T09:37:21.616Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Телевизоры",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2024-09-06T09:37:32.534Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "icon of Телевизоры",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2024-09-06T10:10:03.060Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Iphone 14 Pro max 128GB",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2024-09-06T10:10:16.706Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "/products/images/1/iphone14.jpg",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2024-09-06T10:10:49.044Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "ProductSpecification object (1)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2024-09-06T10:11:06.160Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "ProductSpecification object (2)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2024-09-06T10:11:28.270Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "ProductSpecification object (3)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2024-09-06T10:12:02.339Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "1",
+      "object_repr": "Смартфоны",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2024-09-06T10:14:40.695Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "1",
+      "object_repr": "Владислав: Iphone 14 Pro max 128GB",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2024-09-06T10:18:27.382Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "iphone 15 256BG",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2024-09-06T10:18:49.111Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "2",
+      "object_repr": "/products/images/2/Iphone15.jpeg",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2024-09-06T10:19:03.426Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "iphone 15 Pro 256BG",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2024-09-06T10:19:40.446Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "4",
+      "object_repr": "ProductSpecification object (4)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2024-09-06T10:19:55.995Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "5",
+      "object_repr": "ProductSpecification object (5)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2024-09-06T10:20:16.914Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "6",
+      "object_repr": "ProductSpecification object (6)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2024-09-06T10:20:23.202Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "2",
+      "object_repr": "Смартфоны",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2024-09-06T10:20:45.366Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "1",
+      "object_repr": "iphone 15 Pro 256BG",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2024-09-06T10:21:19.398Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Iphone 15 Pro 256GB",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2024-09-06T10:28:11.896Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Xiaomi Redmi Note 13",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2024-09-06T10:28:36.934Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "3",
+      "object_repr": "/products/images/3/Redminote14.jpg",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2024-09-06T10:28:59.011Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "7",
+      "object_repr": "ProductSpecification object (7)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2024-09-06T10:29:16.048Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "8",
+      "object_repr": "ProductSpecification object (8)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2024-09-06T10:29:27.464Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "9",
+      "object_repr": "ProductSpecification object (9)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2024-09-06T10:29:42.067Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "10",
+      "object_repr": "ProductSpecification object (10)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2024-09-06T10:30:02.804Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "2",
+      "object_repr": "Анна: Xiaomi Redmi Note 13",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2024-09-06T10:30:32.468Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "3",
+      "object_repr": "Иван: Xiaomi Redmi Note 13",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2024-09-06T10:31:01.613Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "3",
+      "object_repr": "Смартфоны",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2024-09-06T10:31:35.839Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Телефоны",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Favourite\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2024-09-06T10:32:04.411Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "2",
+      "object_repr": "Xiaomi Redmi Note 13",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2024-09-06T10:37:09.746Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Karcher wd 3",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2024-09-06T10:37:26.198Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "/products/images/4/Karcher.jpg",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2024-09-06T10:37:41.443Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "11",
+      "object_repr": "ProductSpecification object (11)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2024-09-06T10:37:52.550Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "12",
+      "object_repr": "ProductSpecification object (12)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2024-09-06T10:38:03.245Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "13",
+      "object_repr": "ProductSpecification object (13)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2024-09-06T10:38:18.259Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "14",
+      "object_repr": "ProductSpecification object (14)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2024-09-06T10:38:52.837Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "4",
+      "object_repr": "Александр: Karcher wd 3",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2024-09-06T10:39:19.343Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "5",
+      "object_repr": "Мария: Karcher wd 3",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2024-09-06T10:44:25.888Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Телевизор xiaomi 65\"",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2024-09-06T10:44:44.869Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "5",
+      "object_repr": "/products/images/5/xiaomi.png",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2024-09-06T10:45:04.145Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "15",
+      "object_repr": "ProductSpecification object (15)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2024-09-06T10:45:14.633Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "16",
+      "object_repr": "ProductSpecification object (16)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2024-09-06T10:45:28.225Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "17",
+      "object_repr": "ProductSpecification object (17)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+      "action_time": "2024-09-06T10:45:41.335Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "18",
+      "object_repr": "ProductSpecification object (18)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+      "action_time": "2024-09-06T10:46:22.151Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "6",
+      "object_repr": "Макс: Телевизор xiaomi 65\"",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+      "action_time": "2024-09-06T10:46:52.765Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "3",
+      "object_repr": "Телевизор xiaomi 65\"",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+      "action_time": "2024-09-06T10:47:18.274Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "4",
+      "object_repr": "4k",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+      "action_time": "2024-09-06T10:47:27.926Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "5",
+      "object_repr": "UHD",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+      "action_time": "2024-09-06T10:48:28.783Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Телевизор samsung 43\"",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+      "action_time": "2024-09-06T10:48:44.544Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "6",
+      "object_repr": "/products/images/6/samsungtv.jfif",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+      "action_time": "2024-09-06T10:49:04.690Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "19",
+      "object_repr": "ProductSpecification object (19)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+      "action_time": "2024-09-06T10:49:15.756Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "20",
+      "object_repr": "ProductSpecification object (20)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+      "action_time": "2024-09-06T10:49:27.678Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "21",
+      "object_repr": "ProductSpecification object (21)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+      "action_time": "2024-09-06T10:49:38.972Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "22",
+      "object_repr": "ProductSpecification object (22)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+      "action_time": "2024-09-06T10:50:20.471Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "7",
+      "object_repr": "Юля: Телевизор samsung 43\"",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+      "action_time": "2024-09-06T10:50:28.524Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "6",
+      "object_repr": "4k",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+      "action_time": "2024-09-06T10:50:33.188Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "7",
+      "object_repr": "UHD",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 4,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 4,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 4,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 4,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 5,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 5,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 5,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 5,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 6,
+      "codename": "add_customuser"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 6,
+      "codename": "change_customuser"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 6,
+      "codename": "delete_customuser"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 6,
+      "codename": "view_customuser"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add Category",
+      "content_type": 7,
+      "codename": "add_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change Category",
+      "content_type": 7,
+      "codename": "change_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete Category",
+      "content_type": 7,
+      "codename": "delete_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view Category",
+      "content_type": 7,
+      "codename": "view_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add Category icon",
+      "content_type": 8,
+      "codename": "add_categoryicon"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change Category icon",
+      "content_type": 8,
+      "codename": "change_categoryicon"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete Category icon",
+      "content_type": 8,
+      "codename": "delete_categoryicon"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view Category icon",
+      "content_type": 8,
+      "codename": "view_categoryicon"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add Product",
+      "content_type": 9,
+      "codename": "add_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change Product",
+      "content_type": 9,
+      "codename": "change_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete Product",
+      "content_type": 9,
+      "codename": "delete_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view Product",
+      "content_type": 9,
+      "codename": "view_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add Product image",
+      "content_type": 10,
+      "codename": "add_productimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change Product image",
+      "content_type": 10,
+      "codename": "change_productimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete Product image",
+      "content_type": 10,
+      "codename": "delete_productimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view Product image",
+      "content_type": 10,
+      "codename": "view_productimage"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add Product specification",
+      "content_type": 11,
+      "codename": "add_productspecification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change Product specification",
+      "content_type": 11,
+      "codename": "change_productspecification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete Product specification",
+      "content_type": 11,
+      "codename": "delete_productspecification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view Product specification",
+      "content_type": 11,
+      "codename": "view_productspecification"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+      "name": "Can add Review",
+      "content_type": 12,
+      "codename": "add_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+      "name": "Can change Review",
+      "content_type": 12,
+      "codename": "change_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+      "name": "Can delete Review",
+      "content_type": 12,
+      "codename": "delete_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+      "name": "Can view Review",
+      "content_type": 12,
+      "codename": "view_review"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+      "name": "Can add Sale",
+      "content_type": 13,
+      "codename": "add_sale"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+      "name": "Can change Sale",
+      "content_type": 13,
+      "codename": "change_sale"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+      "name": "Can delete Sale",
+      "content_type": 13,
+      "codename": "delete_sale"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+      "name": "Can view Sale",
+      "content_type": 13,
+      "codename": "view_sale"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+      "name": "Can add Tag",
+      "content_type": 14,
+      "codename": "add_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+      "name": "Can change Tag",
+      "content_type": 14,
+      "codename": "change_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+      "name": "Can delete Tag",
+      "content_type": 14,
+      "codename": "delete_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+      "name": "Can view Tag",
+      "content_type": 14,
+      "codename": "view_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+      "name": "Can add Order",
+      "content_type": 15,
+      "codename": "add_order"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+      "name": "Can change Order",
+      "content_type": 15,
+      "codename": "change_order"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+      "name": "Can delete Order",
+      "content_type": 15,
+      "codename": "delete_order"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+      "name": "Can view Order",
+      "content_type": 15,
+      "codename": "view_order"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+      "name": "Can add count productin order",
+      "content_type": 16,
+      "codename": "add_countproductinorder"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+      "name": "Can change count productin order",
+      "content_type": 16,
+      "codename": "change_countproductinorder"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+      "name": "Can delete count productin order",
+      "content_type": 16,
+      "codename": "delete_countproductinorder"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+      "name": "Can view count productin order",
+      "content_type": 16,
+      "codename": "view_countproductinorder"
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 1,
+    "fields": {
+      "name": "Admin",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 2,
+    "fields": {
+      "name": "User",
+      "permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "accounts",
+      "model": "customuser"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "catalog",
+      "model": "category"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "catalog",
+      "model": "categoryicon"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "products",
+      "model": "product"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+      "app_label": "products",
+      "model": "productimage"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+      "app_label": "products",
+      "model": "productspecification"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+      "app_label": "products",
+      "model": "review"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+      "app_label": "products",
+      "model": "sale"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+      "app_label": "products",
+      "model": "tag"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+      "app_label": "orders",
+      "model": "order"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+      "app_label": "orders",
+      "model": "countproductinorder"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "nnfs769j29cktof7xschyqebmchp9i5d",
+    "fields": {
+      "session_data": ".eJxtjbsOgzAMRf_FM4oSIA937N5vQImTFtoqqQJMiH9vUrEgdbF8fY6uNyCbF7hsIOugtMaSRAOfPFGAC0hExjnsDYj_Akr-E4ox2HUZh3UOeZh8QS2cbs7SK8QK_NPGR2KU4pInx6rCDjqzW_LhfT3cU8Fo57F-bE1QveOtF8YLZ3ouhFSiU8r0lrxGkqorXKEuO0fdOcQg9L3TpMkp2L_ZjEt7:1smWfJ:X8U8sxndURj42zydzZzuxqVRO9rjv0aPzL55B0t8lRE",
+      "expire_date": "2024-09-20T10:58:09.136Z"
+    }
+  },
+  {
+    "model": "accounts.customuser",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$fuUwyHFmBwYXmjxBwVjmy6$1TuAg8PHJHDf/6VwJ1IoHtatipzJluib99skhsSnuvg=",
+      "last_login": "2024-09-06T09:35:13.126Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-09-06T09:34:24.496Z",
+      "fullName": null,
+      "phone": null,
+      "src": "",
+      "alt": null,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.customuser",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$kzhxq8lk0naerEGVNFq2ET$vj4pSFdvotKQ6bYyB2NdvtXWffb1pHXyM5X2qFLmAUI=",
+      "last_login": "2024-09-06T10:57:56.892Z",
+      "is_superuser": false,
+      "username": "Alex",
+      "first_name": "Саша",
+      "last_name": "",
+      "email": "sasha@mail.ru",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-09-06T10:51:16.186Z",
+      "fullName": "Александров Александр Александрович",
+      "phone": "+79841239854",
+      "src": "users/Alex/avatar/sasha.jpeg",
+      "alt": "User avatar image",
+      "groups": [
+        2
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.customuser",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$jg51cUMupPYnEJksRVSjz0$WNCwT8Gf8XaFirzhhBSKDERFgjSvNTSeOfDjby2RKwo=",
+      "last_login": "2024-09-06T10:56:03.889Z",
+      "is_superuser": false,
+      "username": "Vladimir",
+      "first_name": "Владимир",
+      "last_name": "",
+      "email": "vladimir@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-09-06T10:56:03.581Z",
+      "fullName": "Владимиров Владимир Владимирович",
+      "phone": "89645792758",
+      "src": "",
+      "alt": null,
+      "groups": [
+        2
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 1,
+    "fields": {
+      "title": "Телефоны",
+      "active": true,
+      "parent": null,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 2,
+    "fields": {
+      "title": "Iphone",
+      "active": true,
+      "parent": 1,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 3,
+    "fields": {
+      "title": "Пылесосы",
+      "active": true,
+      "parent": null,
+      "favourite": false
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 4,
+    "fields": {
+      "title": "Телевизоры",
+      "active": true,
+      "parent": null,
+      "favourite": false
+    }
+  },
+  {
+    "model": "catalog.categoryicon",
+    "pk": 1,
+    "fields": {
+      "src": "catalog/icons/Телефоны/Smartphones.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "catalog.categoryicon",
+    "pk": 2,
+    "fields": {
+      "src": "catalog/icons/Телефоны/Iphone/iphones.jpeg",
+      "category": 2
+    }
+  },
+  {
+    "model": "catalog.categoryicon",
+    "pk": 3,
+    "fields": {
+      "src": "catalog/icons/Пылесосы/Pylesos.png",
+      "category": 3
+    }
+  },
+  {
+    "model": "catalog.categoryicon",
+    "pk": 4,
+    "fields": {
+      "src": "catalog/icons/Телевизоры/televisor.png",
+      "category": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "title": "Iphone 14 Pro max 128GB",
+      "description": "Iphone 14 Pro max 128GB (2022)",
+      "fullDescription": "Большой, стильный, функциональный, производительный — это iPhone 14 Pro Max. Оснащенный системой камер профессионального уровня и новейшим скоростным чипсетом этот гаджет справится с любыми задачами — от общения и интернет-серфинга до современных требовательных игр и работы с графикой. Узнаваемый стиль Apple выглядит статусно и выделяется среди других смартфонов.",
+      "price": "950.00",
+      "count": 50,
+      "date": "2024-09-06T10:10:03.059Z",
+      "freeDelivery": false,
+      "limited_edition": false,
+      "rating": "0.00",
+      "active": true,
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "title": "Iphone 15 Pro 256GB",
+      "description": "Iphone 15 Pro 256GB (2023)",
+      "fullDescription": "Первый iPhone в корпусе с элементами из титана авиационного качества, ультрасовременными камерами и процессором A17 Pro для мощных мобильных игр и других сложных задач. К тому же, смартфоны привлекательны новой кнопкой управления, которую можно очень гибко настроить для своих потребностей.",
+      "price": "1099.00",
+      "count": 100,
+      "date": "2024-09-06T10:18:27.380Z",
+      "freeDelivery": true,
+      "limited_edition": true,
+      "rating": "0.00",
+      "active": true,
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "title": "Xiaomi Redmi Note 13",
+      "description": "Xiaomi Redmi Note 13 128GB",
+      "fullDescription": "С помощью основной камеры 108 Мп флагманского уровня и множества интеллектуальных алгоритмов можно создавать потрясающие фотографии с невероятным качеством и детализацией.",
+      "price": "150.00",
+      "count": 500,
+      "date": "2024-09-06T10:28:11.895Z",
+      "freeDelivery": false,
+      "limited_edition": false,
+      "rating": "0.00",
+      "active": true,
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "title": "Karcher wd 3",
+      "description": "Хозяйственный пылесос WD 3 S V-17/4/20",
+      "fullDescription": "Энергоэффективный аппарат WD 3 S V-17/4/20 развивает высокую силу всасывания при низкой потребляемой мощности (лишь 1000 Вт). При этом он оптимально сочетается со всасывающим шлангом и снабженной вставками насадкой для пола, благодаря чему обеспечиваются превосходные результаты сбора любого мусора – сухого или влажного, крупного или мелкого. Этот хозяйственный пылесос, впечатляющий своей компактностью, оснащен прочным 17-литровым мусоросборником из нержавеющей стали, 4-метровым кабелем, 2-метровым всасывающим шлангом и фильтр-мешком из нетканого материала. Благодаря неразборному патронному фильтру он позволяет чередовать операции влажной и сухой уборки без замены фильтра. Функция выдувания значительно облегчает очистку труднодоступных мест. Для компактного хранения аппарата шланг подвешивается на моторной части, кабель – на специальном крюке, а удлинительные трубки и насадка для пола закрепляются на отбойнике. Замки Pull & Push позволяют очень легко присоединять и отсоединять мусоросборник. Рукоятка может сниматься с всасывающего шланга для прикрепления насадок непосредственно к нему. Продумана и конструкция моторной части: на ее плоскую панель могут укладываться инструменты и мелкие детали, а ручка эргономичной формы обеспечивает удобную переноску аппарата.",
+      "price": "130.00",
+      "count": 100,
+      "date": "2024-09-06T10:37:09.745Z",
+      "freeDelivery": false,
+      "limited_edition": true,
+      "rating": "0.00",
+      "active": true,
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "title": "Телевизор xiaomi 65\"",
+      "description": "Телевизор Xiaomi TV A 65 2025",
+      "fullDescription": "Дисплей 4K Ultra HD с разрешением 3840х2160 позволяет просматривать изображения в мельчайших деталях.\r\nДисплей с технологиями HDR10 и HLG обеспечивают широкий диапазон уровней яркости, позволяя получить больше слоев, более насыщенную яркость и четкость картинки.\r\nТехнология Motion Estimation, Motion Compensation (MEMC) делает изображения с высокой скоростью движения более плавными, обеспечивая комфортный просмотр.\r\nБлагодаря двум мощным динамикам по 10 Вт телевизор обеспечивает улучшенное звучание, которое позволит почувствовать себя в центре событий.",
+      "price": "599.00",
+      "count": 500,
+      "date": "2024-09-06T10:44:25.885Z",
+      "freeDelivery": true,
+      "limited_edition": true,
+      "rating": "0.00",
+      "active": true,
+      "category": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "title": "Телевизор samsung 43\"",
+      "description": "43\" (108 см) LED-телевизор Samsung UE43AU7002UXRU черный",
+      "fullDescription": "Телевизор LED Samsung UE43AU7002UXRU с 43-дюймовым экраном впечатляет 4K-разрешением, позволяющим распознать мельчайшие детали и оттенки. Функциональная техника оснащена набором интересных функций и технологий улучшения качества изображения. Вы можете подключить к телевизору мышь, клавиатуру и даже смартфон в режиме Wireless DeX.\r\nТехника Samsung UE43AU7002UXRU работает на основе ОС Tizen, обеспечивая быстрый доступ к приложениям Smart TV и настройкам телевизора. Технология Motion Xcelerator повышает четкость изображения и убирает дрожание при движении. С помощью функции Connect Share можно смотреть фото с USB-накопителя на большом экране. Мощные динамики на 20 Вт обладают громким и объемным звучанием, не нуждаясь в дополнительной акустике.",
+      "price": "380.00",
+      "count": 100,
+      "date": "2024-09-06T10:48:28.782Z",
+      "freeDelivery": false,
+      "limited_edition": false,
+      "rating": "0.00",
+      "active": true,
+      "category": 4
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 1,
+    "fields": {
+      "product": 1,
+      "name": "Тип SIM-карты",
+      "value": "Nano Sim + eSIM"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 2,
+    "fields": {
+      "product": 1,
+      "name": "Тыловая фотокамера",
+      "value": "тройная 48 МП + 12 МП + 12 МП"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 3,
+    "fields": {
+      "product": 1,
+      "name": "Время работы в режиме прослушивания музыки",
+      "value": "до 95 ч"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 4,
+    "fields": {
+      "product": 2,
+      "name": "Тип SIM-карты",
+      "value": "Nano Sim + eSIM"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 5,
+    "fields": {
+      "product": 2,
+      "name": "Тыловая фотокамера",
+      "value": "48 МП + 12 МП + 12 МП"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 6,
+    "fields": {
+      "product": 2,
+      "name": "Объем встроенной памяти",
+      "value": "256GB"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 7,
+    "fields": {
+      "product": 3,
+      "name": "Материал",
+      "value": "пластик, стекло"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 8,
+    "fields": {
+      "product": 3,
+      "name": "Фронтальная камера",
+      "value": "16 Мп"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 9,
+    "fields": {
+      "product": 3,
+      "name": "Основная камера",
+      "value": "108 Мп"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 10,
+    "fields": {
+      "product": 3,
+      "name": "Диагональ экрана",
+      "value": "6.67\""
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 11,
+    "fields": {
+      "product": 4,
+      "name": "Параметры электросети (В/Гц)",
+      "value": "220 - 240 / 50 - 60"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 12,
+    "fields": {
+      "product": 4,
+      "name": "Потребляемая мощность (Вт)",
+      "value": "1000"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 13,
+    "fields": {
+      "product": 4,
+      "name": "Материал мусоросборника",
+      "value": "Нержавеющая сталь"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 14,
+    "fields": {
+      "product": 4,
+      "name": "Объем (м3)",
+      "value": "0.076235"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 15,
+    "fields": {
+      "product": 5,
+      "name": "Диагональ экрана",
+      "value": "65\""
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 16,
+    "fields": {
+      "product": 5,
+      "name": "Характеристики дисплея",
+      "value": "4K UHD"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 17,
+    "fields": {
+      "product": 5,
+      "name": "Разрешение экрана",
+      "value": "3840 x 2160 4K UltraHD"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 18,
+    "fields": {
+      "product": 5,
+      "name": "Цвет",
+      "value": "Чёрный"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 19,
+    "fields": {
+      "product": 6,
+      "name": "Питание",
+      "value": "100-240 В ～ 50/60 Гц"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 20,
+    "fields": {
+      "product": 6,
+      "name": "Диагональ экрана (дюйм)",
+      "value": "43\""
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 21,
+    "fields": {
+      "product": 6,
+      "name": "Разрешение экрана",
+      "value": "4K UltraHD, 3840x2160"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 22,
+    "fields": {
+      "product": 6,
+      "name": "Мощность звука",
+      "value": "20 Вт"
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 1,
+    "fields": {
+      "name": "Айфон 14 про макс",
+      "product": 1,
+      "image": "products/images/1/iphone14.jpg"
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 2,
+    "fields": {
+      "name": "Айфон15 про",
+      "product": 2,
+      "image": "products/images/2/Iphone15.jpeg"
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 3,
+    "fields": {
+      "name": "xiaomi redmi 13",
+      "product": 3,
+      "image": "products/images/3/Redminote14.jpg"
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 4,
+    "fields": {
+      "name": "Karcher",
+      "product": 4,
+      "image": "products/images/4/Karcher.jpg"
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 5,
+    "fields": {
+      "name": "xiaomi tv",
+      "product": 5,
+      "image": "products/images/5/xiaomi.png"
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 6,
+    "fields": {
+      "name": "samsung 43",
+      "product": 6,
+      "image": "products/images/6/samsungtv.jfif"
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 1,
+    "fields": {
+      "name": "Смартфоны",
+      "product": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 2,
+    "fields": {
+      "name": "Смартфоны",
+      "product": [
+        2
+      ]
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 3,
+    "fields": {
+      "name": "Смартфоны",
+      "product": [
+        3
+      ]
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 4,
+    "fields": {
+      "name": "4k",
+      "product": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 5,
+    "fields": {
+      "name": "UHD",
+      "product": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 6,
+    "fields": {
+      "name": "4k",
+      "product": [
+        6
+      ]
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 7,
+    "fields": {
+      "name": "UHD",
+      "product": [
+        6
+      ]
+    }
+  },
+  {
+    "model": "products.review",
+    "pk": 1,
+    "fields": {
+      "author": "Владислав",
+      "email": "vladislave@mail.ru",
+      "text": "Отличный телефон",
+      "rate": 5,
+      "date": "2024-09-06T10:14:40.694Z",
+      "product": 1
+    }
+  },
+  {
+    "model": "products.review",
+    "pk": 2,
+    "fields": {
+      "author": "Анна",
+      "email": "anna@gmail.com",
+      "text": "Топ за свои деньги",
+      "rate": 5,
+      "date": "2024-09-06T10:30:02.803Z",
+      "product": 3
+    }
+  },
+  {
+    "model": "products.review",
+    "pk": 3,
+    "fields": {
+      "author": "Иван",
+      "email": "ivan@gmail.com",
+      "text": "Хороший бюджетный вариант",
+      "rate": 4,
+      "date": "2024-09-06T10:30:32.467Z",
+      "product": 3
+    }
+  },
+  {
+    "model": "products.review",
+    "pk": 4,
+    "fields": {
+      "author": "Александр",
+      "email": "alex@mail.ru",
+      "text": "Отлично сосёт",
+      "rate": 5,
+      "date": "2024-09-06T10:38:52.836Z",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.review",
+    "pk": 5,
+    "fields": {
+      "author": "Мария",
+      "email": "maria@gmail.com",
+      "text": "Хороший пылесос",
+      "rate": 4,
+      "date": "2024-09-06T10:39:19.342Z",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.review",
+    "pk": 6,
+    "fields": {
+      "author": "Макс",
+      "email": "max@mail.inbox",
+      "text": "Качественный звук, хорошая картинка",
+      "rate": 5,
+      "date": "2024-09-06T10:46:22.150Z",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.review",
+    "pk": 7,
+    "fields": {
+      "author": "Юля",
+      "email": "yulia@gmail.com",
+      "text": "Переоценённый телевизор с завышенной ценой",
+      "rate": 3,
+      "date": "2024-09-06T10:50:20.470Z",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.sale",
+    "pk": 1,
+    "fields": {
+      "product": 2,
+      "salePrice": "1099.00",
+      "dateFrom": "2024-09-06",
+      "dateTo": "2024-09-30"
+    }
+  },
+  {
+    "model": "products.sale",
+    "pk": 2,
+    "fields": {
+      "product": 3,
+      "salePrice": "150.00",
+      "dateFrom": "2024-09-01",
+      "dateTo": "2024-09-12"
+    }
+  },
+  {
+    "model": "products.sale",
+    "pk": 3,
+    "fields": {
+      "product": 5,
+      "salePrice": "599.00",
+      "dateFrom": "2024-09-01",
+      "dateTo": "2024-09-19"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 1,
+    "fields": {
+      "createdAt": "2024-09-06T10:57:02.466Z",
+      "user": 3,
+      "deliveryType": "express",
+      "paymentType": "online",
+      "totalCost": "580.00",
+      "status": "Оплачен",
+      "city": "Москва",
+      "address": "Пушкина дом 1",
+      "products": [
+        3,
+        6
+      ]
+    }
+  },
+  {
+    "model": "orders.countproductinorder",
+    "pk": 1,
+    "fields": {
+      "order": 1,
+      "product": 3,
+      "count": 1
+    }
+  },
+  {
+    "model": "orders.countproductinorder",
+    "pk": 2,
+    "fields": {
+      "order": 1,
+      "product": 6,
+      "count": 1
+    }
+  }
+]
