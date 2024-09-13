@@ -48,7 +48,3 @@ class CategoryIcon(models.Model):
     def __str__(self):
         return f"icon of {self.category.title}"
 
-
-from django.db import models
-
-# Create your models here.
