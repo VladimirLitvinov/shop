@@ -40,8 +40,6 @@ class UserRegisterView(APIView):
             user = CustomUser.objects.create_user(username=data['username'],
                                                   password=data['password'],
                                                   first_name=data['name'])
-            group = Group.objects.get(name='User')
-            user.groups.add(group)
             login(request, user)
             return Response(status=status.HTTP_201_CREATED)
         except IntegrityError:
