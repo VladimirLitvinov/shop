@@ -1,8 +1,6 @@
 from django.contrib.auth import login, logout, authenticate
-from django.contrib.auth.models import User, Group
+from django.contrib.auth.models import Group
 from django.db import IntegrityError
-from django.forms import model_to_dict
-from django.http import JsonResponse
 from django.shortcuts import render
 from rest_framework import status
 
@@ -40,8 +38,8 @@ class UserRegisterView(APIView):
         data = json.loads(request.body)
         try:
             user = CustomUser.objects.create_user(username=data['username'],
-                                            password=data['password'],
-                                            first_name=data['name'])
+                                                  password=data['password'],
+                                                  first_name=data['name'])
             group = Group.objects.get(name='User')
             user.groups.add(group)
             login(request, user)
@@ -52,6 +50,7 @@ class UserRegisterView(APIView):
 
 class UserProfileView(APIView):
     serializer_class = ProfileSerializer
+
     def get(self, request: Request):
         serializer = ProfileSerializer(request.user)
         return Response(serializer.data, status=status.HTTP_200_OK)
